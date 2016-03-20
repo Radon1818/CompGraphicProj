@@ -1,2 +1,0 @@
-# CompGraphicProj
-Computer Graphic
